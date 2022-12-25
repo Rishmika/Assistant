@@ -1,7 +1,7 @@
 import aiohttp
 import logging
 from pyrogram import Client
-from Config import Config
+from config import Config
 from telethon import TelegramClient
 
 
