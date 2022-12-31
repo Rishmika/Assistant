@@ -17,5 +17,5 @@ class Config(object):
 	GROUP = "EmoBotSupport"
 	START_PIC = "https://telegra.ph/file/1338f604c103fd8d35f66.jpg"
 	C_CHANNEL = "AboutRishmika"
-	MONGODB_URI = "mongodb+srv://rishbro:rishbro@cluster0.eiqoy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+	MONGODB_URI = "mongodb+srv://emo:emobots@emobotdevolopers1.v5k5tuu.mongodb.net/?retryWrites=true&w=majority"
 	ARQ_API_KEY = "TLKZEM-FSYGYW-OTINGB-RIMVDM-ARQ"
